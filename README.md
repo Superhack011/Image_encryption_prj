@@ -15,12 +15,16 @@ pip install Pillow
 ## How to Run
 To use the tools, navigate to the directory and run the scripts :
 
-1. Text encryption
-   Run
-   python3 Playfair_cipher.py
+1. Text encryption : 
+Run
+```bash
+python3 Playfair_cipher.py
+```
 
-2. Image encryption
-   Run
-   python3 Image_encryption.py
+1. Image encryption : 
+Run
+```bash
+python3 Image_encryption.py
+```
 
    
